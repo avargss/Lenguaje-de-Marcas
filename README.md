@@ -6,4 +6,4 @@ Cada práctica irá etiquetada de su fecha de entrega correspondiente.
 
 ## Contenido subido: 
 
-Proyecto de HTML y CSS del primer trimestre.
+1. Proyecto 1ºT (10/12/23) - Titanfall
